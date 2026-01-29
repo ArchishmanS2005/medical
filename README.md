@@ -1,6 +1,6 @@
 # PrescriptoVault: Decentralized Healthcare Ecosystem 🏥
 
-> **Status**: High-Fidelity Prototype (Database-Ready)
+> **Status**: High-Fidelity Prototype (Database-Ready).
 ## 🌟 Project Overview
 PrescriptoVault is a sophisticated, "Database-Ready" healthcare platform designed to modernize the prescription lifecycle. It connects **Doctors**, **Patients**, **Pharmacies**, and **Administrators** in a unified, secure ecosystem.
 
